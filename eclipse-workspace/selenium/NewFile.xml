@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="groups suite">
+	<test name="parameter test">
+	<groups>
+	<run >
+	<exclude name="sub">
+	</exclude >
+	</run >
+	</groups>
+	<parameter name="captain" value="dhoni">	</parameter >			
+		<classes>			
+		<class name="testNG.Groups_Parameter"></class>	
+		</classes>
+	</test>
+</suite>

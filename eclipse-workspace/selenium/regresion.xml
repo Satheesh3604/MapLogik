@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="regression suite">
+	<test name="excel demo and login flipkart">
+
+		<classes>
+			<class name="testNG.PriorityOrderExample"></class>
+			<class name="testNG.EnableExample"></class>
+			<class name="testNG.AssertionExample"></class>
+
+		</classes>
+	</test>
+</suite>
