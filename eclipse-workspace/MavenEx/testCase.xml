@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="groups suite">
+	<test name="parameter test">
+		<classes>
+			<class name="maplogk.admin.test.StudentLogin_TestCase"></class>				
+		</classes>
+	</test>
+</suite>
